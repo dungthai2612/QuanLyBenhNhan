@@ -1,0 +1,16 @@
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.exe.config
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.exe
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.AssemblyReference.cache
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.SuggestedBindingRedirects.cache
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.exe
+C:\Users\dthai\source\repos\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.exe.config
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.exe
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.AssemblyReference.cache
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.SuggestedBindingRedirects.cache
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.exe
+C:\Users\dthai\source\repos\BaiTap\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb
